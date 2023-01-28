@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I currently work at Kinsta 
+#### 🖥️ I currently work at [Kinsta](https://kinsta.com)
+
+#### Checkout my [portfolio](https://hyfyn.com) to see what else I have done
